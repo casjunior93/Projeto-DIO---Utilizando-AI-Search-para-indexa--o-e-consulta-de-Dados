@@ -55,3 +55,11 @@ E outra pesquisa sobre opiniões positivas:
 _search=sentiment:'positive'_
 
 ![Img](./img/img10.png)
+
+## Utilizando o SDK
+
+No final, utilizei o SDK em python para utilizar o AI Search. O notebook que fiz este teste pode ser visto clicando [AQUI](./Utilizando_AI_Search_via_SDK.ipynb).
+
+## Excluindo os recursos criados
+
+Para finalizar o projeto, exclui todos os recursos criados para evitar gastos surpresas.
